@@ -20,8 +20,7 @@
 
 ##### :rotating_light: ปุ่มส่งสัญญาณ
 - เมื่อผู้ใช้กดปุ่มลำโพงและ LED จะติดขึ้นมาเพื่อส่งเสียงสัญญาณบอกคนรอบตัวให้เข้ามาช่วย 
- <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=e7inKGncSG8" frameborder="0" allowfullscreen="true"> </iframe>
+ [![Watch the video](https://cdn.discordapp.com/attachments/719864849668112405/844960704511606890/unknown.png)](https://www.youtube.com/watch?v=e7inKGncSG8)
 
  ##### :man_technologist: : ***Member***
 > 1. นายกฤติน กลิ่นแก้ว 63070004 
