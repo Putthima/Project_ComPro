@@ -21,9 +21,7 @@
 
 ##### :rotating_light: ปุ่มส่งสัญญาณ
 - เมื่อผู้ใช้กดปุ่มลำโพงและ LED จะติดขึ้นมาเพื่อส่งเสียงสัญญาณบอกคนรอบตัวให้เข้ามาช่วย 
- <video src="files/642846720.199253.mp4" type="video/mp4">
-</video>
-
+ [![Watch the video](https://cdn.discordapp.com/attachments/719864849668112405/844960704511606890/unknown.png)](https://www.youtube.com/watch?v=e7inKGncSG8)
  ##### :man_technologist: : ***Member***
 > 1. นายกฤติน กลิ่นแก้ว 63070004 
 > 2. นายธีรภัทร สามบุญเรือง 63070087
